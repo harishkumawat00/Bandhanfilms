@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../poortfoliyo teli/Codewithshobhit-Cool-Responsive-Portfolio-Using-HTML-CSS--main/cool-responsive-portfolio-using-html-css/dist"
+		},
+		{
+			"path": "../../poortfoliyo teli/Codewithshobhit-Cool-Responsive-Portfolio-Using-HTML-CSS--main/cool-responsive-portfolio-using-html-css/src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dist"
+	}
+}
